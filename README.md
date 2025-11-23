@@ -87,7 +87,7 @@ D) Sustainability → **Designing AI to be environmentally friendly.**
 ---
 
 
-## Part 3 300-word report (exactly 300 words)
+## Part 3: 300-word report
 
 The audit of the COMPAS recidivism scoring dataset reveals measurable racial disparities that risk producing unequal outcomes when used for decision-making. Using IBM’s AI Fairness 360 methodology, I computed group-wise false positive and false negative rates and the disparate impact ratio on held-out validation data. Baseline results confirm prior findings: unprivileged racial groups show substantially higher false positive rates, meaning non-reoffending individuals from those groups are more likely to be labeled “high risk.” This aligns with previously published analyses that identified systematic over-prediction for Black defendants. Such FPR disparity creates the practical danger of disproportionate punitive actions and reinforces biased enforcement practices.
 
